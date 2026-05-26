@@ -203,7 +203,7 @@ struct node *delete_ll(struct node *head, int ele)
 }
 
 // practical 8
-struct node
+struct node  
 {
     struct node *prev;
     int data;

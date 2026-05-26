@@ -1,7 +1,6 @@
 ## Author
-- <a href="github.com/dieh4cker"><h1>dieh4cker</h1><a/>
-####  [FOLLOW ME : ]
-📫 How to reach me **[@dieh4cker](https://github.com/dieh4cker)**
+- dieh4cker
+
 # Linked List Operations in C
 
 This project demonstrates basic singly linked list operations in C:

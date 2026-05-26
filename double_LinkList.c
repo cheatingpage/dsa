@@ -20,7 +20,7 @@ struct node *insertbeg_dll(struct node *head, int ele)
 
     newNode->data = ele;
     newNode->next = NULL;
-    newNode->prev = NULL;
+    newNode->prev = NULL;    
     newNode->next = head;
     if (head != NULL)
     {

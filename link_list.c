@@ -25,7 +25,7 @@ struct node *insertbeg_ll(struct node *head, int ele)
 }
 
 void traverse_ll(struct node *head)
-{
+{ 
     struct node *temp = head;
     printf("The elements in the linked list are... ");
     while (temp != NULL)
